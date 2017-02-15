@@ -1,0 +1,13 @@
+h1{
+	font-size: 5em;
+	text-align: right;
+	border: 5px solid pink ;
+}
+body{
+	text-align: center;
+}
+
+button{
+    height: 70px;
+    width:100px;
+}
